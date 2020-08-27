@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -46,7 +46,13 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": -1
+    },
+    {
+      "name": "Batman",
+      "image": "https://media3.webcollage.net/9ce964b3f68267b516d33ec9dfd9d1668d3b5601?response-content-type=image%2Fjpeg&AWSAccessKeyId=AKIAIIE5CHZ4PRWSLYKQ&Expires=1893526436&Signature=q82OtyJyiWv%2BPx5Z1lGKTUpZsXE%3D",
+      "likes": 2,
+      "id": 9
     }
   ]
 }
