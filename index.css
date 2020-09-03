@@ -56,14 +56,14 @@ button:hover {
   color: #e04b52;
 }
 
-.container {
+/* .container {
   padding: 1rem;
   width: stretch;
   height: auto;
   display: none;
   background: #515DA2;
   opacity: .8;
-}
+} */
 
 .add-toy-form {
   width: 80%
